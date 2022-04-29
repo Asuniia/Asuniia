@@ -5,6 +5,6 @@
 
 <div>
   <a href="https://github.com/asuniia/emcx">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=asuniia&repo=emcx" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asuniia&repo=emcx&border_radius=10&theme=material-palenight&" />
 </a>
   </div>
