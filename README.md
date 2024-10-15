@@ -27,16 +27,27 @@
 <br>
 <p align="center">
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="TypeScript" height="25" src="images/typescript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="NPM" height="25" src="images/npm.svg"></code>
+  <code><img title="TailwindCSS" height="25" src="images/tailwindcss.svg"></code>
+  <code><img title="React" height="25" src="images/react.svg"></code>
+  <code><img title="Git" height="25" src="images/git.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
+  <code><img title="Portainer" height="25" src="images/portainer.svg"></code>
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <code><img title="MariaDB" height="25" src="images/mariadb.svg"></code>
+   <code><img title="Traefik" height="25" src="images/traefik.svg"></code>
+  <code><img title="Figma" height="25" src="images/figma.svg"></code>
+  <code><img title="Postman" height="25" src="images/postman.svg"></code>
+  <code><img title="Insomnia" height="25" src="images/insomnia.svg"></code>
+  <code><img title="AdonisJS" height="25" src="images/adonisjs.svg"></code>
+  <code><img title="Laravel" height="25" src="images/laravel.svg"></code>
+  <code><img title="Figma" height="25" src="images/figma.svg"></code>
+  <code><img title="Canva" height="25" src="images/canva.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Composer" height="25" src="images/composer.svg"></code>
+  <code><img title="Notion" height="25" src="images/notion.svg"></code>
+
 </p>
 <hr>
 
